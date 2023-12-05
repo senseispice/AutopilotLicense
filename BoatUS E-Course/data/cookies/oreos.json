@@ -1,0 +1,50 @@
+[
+    {
+        "domain": ".cdn.kencookpartners.com",
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "TDS-ClientDomain",
+        "path": "/courseplayer/",
+        "sameSite": null,
+        "secure": true,
+        "session": true,
+        "storeId": null,
+        "value": "https://courses.boatus.org"
+    },
+    {
+        "domain": ".cdn.kencookpartners.com",
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "CloudFront-Signature",
+        "path": "/courseplayer/",
+        "sameSite": null,
+        "secure": true,
+        "session": true,
+        "storeId": null,
+        "value": "WM49wfXVoxCcyMtYqKWjC4b5nQNBe7dw~k1GRwvhdgT2oUPnuMMUj7YZkSYu75ClJvh~HVRYFaRnnz3igJG8nf4U6~ChpqKpNTRAEcOHXvVahcUlvENgrYvodn4v4isPikLPFHwxmNW5Mn8aLGAzV-Pppxw0hjf8x1izrPLObJWCjW90fbNvGCco9Q78kR1XXScKCQw5MndDlEE5Co-NqFPdnKLps~su6~hEATKS6oSuF-~BhmXlHTbV-doAcaZs~4yo6BwcFOe3DkhmaAlPdaqYWI7pZrH18brnHrMnC9GwsbmVBbYWL7qjnDtE8iKBRiQH8NJHuJkTEKw8eE0HJQ__"
+    },
+    {
+        "domain": ".cdn.kencookpartners.com",
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "CloudFront-Policy",
+        "path": "/courseplayer/",
+        "sameSite": null,
+        "secure": true,
+        "session": true,
+        "storeId": null,
+        "value": "eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLmtlbmNvb2twYXJ0bmVycy5jb20vKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTY5MTcwMDExN319fV19"
+    },
+    {
+        "domain": ".cdn.kencookpartners.com",
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "CloudFront-Key-Pair-Id",
+        "path": "/courseplayer/",
+        "sameSite": null,
+        "secure": true,
+        "session": true,
+        "storeId": null,
+        "value": "APKAJ4PJ4PX2W62QCUJQ"
+    }
+]
